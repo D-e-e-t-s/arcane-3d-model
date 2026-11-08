@@ -4,7 +4,7 @@ This definitely has to be one of my most favorite projects yet and it turned out
 
 <img width="469" height="469" alt="Screenshot 2026-11-07 181857" src="https://github.com/user-attachments/assets/7261d307-95aa-4d66-b8de-13a1fda512ab" />
 
-I first started of going to onshape and trying to create a pyramid. This was strangely one of my most hardest parts because I genuinely couldn't figure out how to create the pyramid until i discovered chamfer. Basically you can create a cube and chamfer will make the edges of it diagnol which perfectly made my pyramid. Here: 
+I first started of going to onshape and trying to create a pyramid. This was strangely one of my most hardest parts because I genuinely couldn't figure out how to create the pyramid until i discovered chamfer. Basically you can create a cube and chamfer will make the edges of it diagonal, which perfectly made my pyramid. Here: 
 
 <img width="459" height="368" alt="Screenshot 2026-11-06 191405" src="https://github.com/user-attachments/assets/09aa583c-1cfa-4c6a-9aa2-2b76c816b74d" />
 
